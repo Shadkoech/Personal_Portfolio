@@ -202,6 +202,3 @@ yarn start
 
 
 <br />
-
-# APIs Used :world_map:
-- [SheetDB](https://sheetdb.io/)
