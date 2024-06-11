@@ -1,9 +1,10 @@
 import resume from '../assets/pdf/resume.pdf'
+import profile from '../assets/png/profile.jpg'
 
 export const headerData = {
-    name: 'Sreerag Rajan',
-    title: "Web Developer",
-    desciption:"Life may be a meandering path but don't worry about it, rather enjoy it. It is about the journey, not the destination so explore all that comes your way, learn and grow from it, for this journey only happens once.",
-    image: 'https://avatars.githubusercontent.com/u/85482640?v=4',
+    name: 'Koech Shadrack',
+    title: "Software Engineer",
+    desciption:"Life is a journey with many paths. Embrace the journey, explore new opportunities, learn from every experience, and grow continuously. This adventure happens only once, so make the most of it and enjoy every moment.",
+    image: profile,
     resumePdf: resume
 }

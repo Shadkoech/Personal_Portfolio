@@ -1,23 +1,23 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Ramjas College, Delhi University',
-        course: 'B.A. Honours History',
-        startYear: '2015',
-        endYear: '2018'
+        institution: 'Holberton School (ALX-Africa)',
+        course: 'Software Engineering',
+        startYear: 'Feb, 2023',
+        endYear: 'June, 2024'
     },
     {
         id: 2,
-        institution: 'Delhi University',
-        course: 'M.A. History',
+        institution: 'University of Nairobi',
+        course: 'Masters in Industrial Chemistry',
         startYear: '2019',
-        endYear: '2021'
+        endYear: 'Ongoing'
     },
     {
         id: 3,
-        institution: 'Masai School of Coding',
-        course: 'Fullstack Web-Development',
-        startYear: '2021',
-        endYear: 'Present'
+        institution: 'Jomo Kenyatta University of Agriculture and Technology',
+        course: 'BSc. Industrial Chemistry',
+        startYear: '2013',
+        endYear: '2017'
     },
 ]
