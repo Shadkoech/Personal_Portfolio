@@ -1,4 +1,5 @@
 import cert from '../assets/png/ALXSE_Certificate-Koech.png'
+import challenge from '../assets/png/100DaysofALXSE.png'
 
 
 export const achievementData = {
@@ -18,7 +19,7 @@ export const achievementData = {
             details : 'A personal commitment to code for at least one hour every day for 100 days, focusing on improving programming skills and building a consistent habit of coding.',
             date : 'Mar 14, 2024',
             field : 'Software Development',
-            image : 'https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2F100daysofalxse&psig=AOvVaw3R6cr-xW_5kxdG9CMoY00g&ust=1719846641955000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOiqkJTOg4cDFQAAAAAdAAAAABAJ'
+            image : challenge
         },
         // {
         //     id : 3,
