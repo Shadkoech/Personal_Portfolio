@@ -1,3 +1,6 @@
+import cert from '../assets/png/ALXSE_Certificate-Koech.png'
+
+
 export const achievementData = {
     bio : "The biggest risk is not taking any risk. In a world that is changing really quickly, the only strategy that is guaranteed to fail is not taking risks. - Mark Zuckerberg",
     achievements : [
@@ -7,16 +10,16 @@ export const achievementData = {
             details : 'I transitioned from industrial chemistry to software engineering by self-studying, completing online courses, and building projects. Overcoming numerous challenges, my determination and analytical skills helped me excel in this new field.',
             date : 'Feb 5th, 2023',
             field : 'Software Engineering',
-            image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-0cd075aa-f55b-4d9f-aec0-119020a4e792.jpg?v=1611846350000'
+            image : cert
         },
-        // {
-        //     id : 2,
-        //     title : 'The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert',
-        //     details : 'A MySQL course from Udemy',
-        //     date : 'May 25, 2021',
-        //     field : 'Database',
-        //     image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-91ae3ea2-39ee-4a57-bf23-d397aff0d9a7.jpg?v=1621951317000'
-        // },
+        {
+            id : 2,
+            title : 'Completed the 100DaysofALXSE challenge',
+            details : 'A personal commitment to code for at least one hour every day for 100 days, focusing on improving programming skills and building a consistent habit of coding.',
+            date : 'Mar 14, 2024',
+            field : 'Software Development',
+            image : 'https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2F100daysofalxse&psig=AOvVaw3R6cr-xW_5kxdG9CMoY00g&ust=1719846641955000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOiqkJTOg4cDFQAAAAAdAAAAABAJ'
+        },
         // {
         //     id : 3,
         //     title : 'Machine Learning A-Z: Hands-On Python & R in Data Science',
